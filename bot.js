@@ -47,4 +47,4 @@ bot.onText(/\/news (\w+)/, async (msg, match) => {
 });
 
 // Set webhook to GitHub pages
-bot.setWebHook('https://<username>.github.io/<repo>/bot.js');
+bot.setWebHook('https://deviprasadhack.github.io/Newsjs');
